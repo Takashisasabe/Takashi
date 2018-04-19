@@ -1,0 +1,11 @@
+Q1
+git log
+git checkout 640273807f9bac8af03575f82b788663d4b99927
+Q2
+git checkout bug
+Q3
+ls
+gir checkout LinusTorvalds2014
+Q4
+cat gitignore
+Q5
